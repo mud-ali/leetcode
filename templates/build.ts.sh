@@ -1,1 +1,1 @@
-ts-node main.sh
+ts-node main.ts
