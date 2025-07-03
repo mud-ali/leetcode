@@ -23,5 +23,4 @@ function mergeAlternately(word1: string, word2: string): string {
     return output;
 }
 
-console.log("jello")
 console.log(mergeAlternately("abc", "pqr"));
